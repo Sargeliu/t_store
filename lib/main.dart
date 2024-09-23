@@ -1,11 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:t_store/utils/app.dart';
+import 'package:t_store/utils/app_t_store.dart';
 
 void main() {
-  runApp(const App());
+  runApp(const TApp());
 }
-
-
 
 
 
