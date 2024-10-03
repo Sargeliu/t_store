@@ -7,8 +7,8 @@ class TImages {
 
   // -- Social Logos
   // static const String google = 'assets/logos/google-icon.png'
-  static const String google = '';
-  static const String facebook = '';
+  static const String facebook = 'assets/icons/brands/icons8-facebook-48.png';
+  static const String google = 'assets/icons/brands/icons8-google-48.png';
 
   // -- OnBoarding Images
   static const String onBoardingImage1 = 'assets/images/on_boarding_images/sa'
