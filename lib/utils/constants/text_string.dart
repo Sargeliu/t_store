@@ -2,7 +2,12 @@
 class TTexts {
 
   // -- Global Texts
-
+  static const String and = 'and';
+  static const String skip = 'Skip';
+  static const String appName = 'T-Store';
+  static const String tContinue = 'Continue';
+  static const String submit = 'Submit';
+  static const String done = 'Done';
 
 
   // -- OnBoarding Texts
@@ -33,11 +38,10 @@ class TTexts {
   static const String orSingInWith = 'or sing in with';
   static const String orSingUpWith = 'or sing up with';
   static const String iAgreeTo = 'I agree to';
-  static const String and = 'and';
   static const String privacyPolicy = 'Privacy Policy';
   static const String termsOfUse = 'Terms of use';
   static const String verificationCode = 'Verification Code';
-  static const String tContinue = 'Continue';
+
   static const String resendEmail = 'Resend Email';
   static const String resendEmailIn = 'Resend email in';
 
