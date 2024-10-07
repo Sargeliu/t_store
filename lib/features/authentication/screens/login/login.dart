@@ -3,8 +3,7 @@ import 'package:get/get.dart';
 import 'package:t_store/common/styles/spacing_style.dart';
 import 'package:t_store/common/widgets/login_signup/form_divider.dart';
 import 'package:t_store/common/widgets/login_signup/social_buttons.dart';
-import 'package:t_store/utils/constants/colors.dart';
-import 'package:t_store/utils/constants/image_string.dart';
+
 import 'package:t_store/utils/constants/sizes.dart';
 import 'package:t_store/utils/constants/text_string.dart';
 import 'package:t_store/utils/helpers/helper_functions.dart';
