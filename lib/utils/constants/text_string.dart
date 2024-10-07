@@ -32,7 +32,8 @@ class TTexts {
   static const String createAccount = 'Create Account';
   static const String orSingInWith = 'or sing in with';
   static const String orSingUpWith = 'or sing up with';
-  static const String iAgreeTo = 'i agree to';
+  static const String iAgreeTo = 'I agree to';
+  static const String and = 'and';
   static const String privacyPolicy = 'Privacy Policy';
   static const String termsOfUse = 'Terms of use';
   static const String verificationCode = 'Verification Code';
@@ -43,7 +44,7 @@ class TTexts {
   static const String loginTitle = 'Welcome back,';
   static const String loginSubTitle = 'Discover Limitless Choices and '
       'Unmatched Convenience.';
-  static const String signUpTitle = 'Let,s create your account';
+  static const String signupTitle = 'Let,s create your account';
   static const String forgetPasswordTitle = 'Forget Password';
   static const String forgetPasswordSubTitle = 'Don`t worry sometimes people '
       'can forget too, enter your email and we will send you a password reset'
